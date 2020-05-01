@@ -5,7 +5,7 @@ Developer Balasubramaniam
 Created on May 1 2020
 
 
-Project Developed Using React JS
+Project Developed Using React JS & Fetch API
 
 
 To view main source code.
